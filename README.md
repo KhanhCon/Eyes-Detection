@@ -1,2 +1,2 @@
 # Eyes-Detection
-Eyes detection with Sobel edge detection
+Eyes extraction using Sobel edge detection implemented in Matlab
